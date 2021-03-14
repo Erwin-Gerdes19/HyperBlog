@@ -4,8 +4,4 @@ Erwin Gerdes Tiene 25 años y vive en Chile Stgo, comuna de la Granja
 
 Hablemos mas de el
 
-aqui agregando nuevo texto, jejejjeje
-
-hoy estoy practicando jijiji
-
-saludos
+se elimino lines de codigo
